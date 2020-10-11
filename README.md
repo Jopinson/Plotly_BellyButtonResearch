@@ -1,1 +1,2 @@
 # Plotly_BellyButtonResearch
+This website was created for Roza, a microbiologist studying belly button bacteria. Roza developed a study for Improbable Beef, a plant based food company, to find bacteria that produces beef like tastes. The participants are given ID numbers to search for on the site and when the number is selected from the dropdown all the charts will show information for that participant. 
